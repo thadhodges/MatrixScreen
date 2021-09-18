@@ -1,0 +1,16 @@
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.exe
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.deps.json
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.runtimeconfig.json
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.runtimeconfig.dev.json
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.dll
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\ref\MatrixScreen.dll
+C:\WORK\REPO\MatrixScreen\MatrixScreen\bin\Debug\net5.0\MatrixScreen.pdb
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.csprojAssemblyReference.cache
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.AssemblyInfoInputs.cache
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.AssemblyInfo.cs
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.dll
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\ref\MatrixScreen.dll
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.pdb
+C:\WORK\REPO\MatrixScreen\MatrixScreen\obj\Debug\net5.0\MatrixScreen.genruntimeconfig.cache
