@@ -19,12 +19,12 @@ namespace MatrixScreen
             //string pattern to print
             String str = "";
 
-            Console.Write("Press ENTER to start...");
+            Console.Write("Press ENTER to enter the MATRIX...");
             Console.ReadKey();
 
             //loop to display string pattern
             //you can change the no. of times the loop execute
-            for (int i = 0; i < 20000; i++)
+            for (int i = 0; i < 200000; i++)
             {
                 //create new string pattern
                 if (i % 2 == 0)
@@ -50,7 +50,7 @@ namespace MatrixScreen
 
             //end of loop
             Console.WriteLine("End of screen...");
-            Console.Write("Press any key to exit...");
+            Console.Write("Press any key to exit the MATRIX...");
             Console.ReadKey();
         }
     }
